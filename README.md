@@ -12,7 +12,7 @@
 | **Celular** | 3016390679                           |
 | **Dirección** | Calle108A#90-133                   |
 | **Correo**| yarisvalentina2@gmail.com              |
-|  **Estado civil **  |                              |
+|  **Estado civil**   |  Soltera                     |
 
 ## Estudios
 | **colegio** | **Nivel Formativo Alcanzado** | **Sena** | **OTROS**
