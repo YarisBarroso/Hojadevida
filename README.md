@@ -6,12 +6,19 @@
 > 
 ## Datos 
 | **Nombre Completo** | Yaris Valentina Barroso Avila 
+|---------------------|------------------------------
 | **sexo** | **Femenino**
+|----------|---------------
 | **Identificación** | 1048067852
+|--------------------|-----------
 | **Celular** | 3016390679
+|-------------|------------
 | **Dirección** | Calle108A#90-133
+|---------------|-----------------
 | **Correo**| yarisvalentina2@gmail.com
+|-----------|-----------------------
 | **Estado civil** | Soltera
+|------------------|--------
 
 ## Estudios
 | **colegio** | **Nivel Formativo Alcanzado** | **Sena** | **OTROS**
