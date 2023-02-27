@@ -11,7 +11,7 @@
 |-------------|-------------------------------|----------|----------
 | I.E.D las flores | Bachiller | CIYA| Tecnico en Sistemas 
 ## Idiomas
-| *Español | Básico de ingles |
+| Español | Básico de ingles |
 |---------|------------------|
 ## Experiencias 
 > 3 meses de configuración de redes de internet y mantenimiento de portatiles. 
