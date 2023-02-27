@@ -3,6 +3,6 @@
 **Perfil Profesional**
 > Excelentes relaciones interpersonales, adaptable al cambio y al aprendizaje continuo. Capaz de trabajar en equipo, responsable y proactiva.
 
-| identificacion | | celular |
+| identificacion | celular |
 | ... | ... |
-| 1048067852 | | 3016390679 | 
+| 1048067852 | 3016390679 | 
