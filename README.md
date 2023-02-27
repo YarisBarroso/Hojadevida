@@ -10,5 +10,8 @@
 | **colegio** | **Nivel Formativo Alcanzado** | **Sena** | **OTROS**
 |-------------|-------------------------------|----------|----------
 | I.E.D las flores | Bachiller | CIYA| Tecnico en Sistemas 
+## Idiomas
+| *Español | Básico de ingles |
+|---------|------------------|
 ## Experiencias 
-> 3 meses de configuracion de redes y mantenimiento de portatiles.
+> 3 meses de configuración de redes de internet y mantenimiento de portatiles. 
