@@ -3,6 +3,6 @@
 ##Perfil Profesional
 > Excelentes relaciones interpersonales, adaptable al cambio y al aprendizaje continuo. Capaz de trabajar en equipo, responsable y proactiva.
 
-| **identificacion** | **celular*+ | **correo**
+| **identificacion** | **celular** | **correo**
 | ------------------ | ----------- |----------
-| ---104806785------ | 3016390679. | yarisvalentina2@gmail.com
+| 104806785 | 3016390679. | yarisvalentina2@gmail.com
