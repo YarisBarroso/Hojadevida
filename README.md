@@ -6,3 +6,7 @@
 | **identificacion** | **celular** | **correo**
 | ------------------ | ----------- |----------
 | 104806785 | 3016390679. | yarisvalentina2@gmail.com
+## Estudios
+| **colegio** | **Nivel Formativo Alcanzado** | **Sena** | **OTROS**
+|-------------|-------------------------------|----------|----------
+| I.E.D las flores | Bachiller | CIYA| Tecnico en Sistemas 
